@@ -37,6 +37,10 @@ print(min_weight)
 docker-compose run app python app
 ```
 
+## jupyter notebook
+
+check the functions and results with the notebook
+
 
 ### Mejoras
 
